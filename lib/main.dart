@@ -3,6 +3,8 @@ import 'package:task4_training/Ahadees.dart';
 import 'package:task4_training/Sowar.dart';
 import 'package:task4_training/Tasbeeh.dart';
 import 'package:task4_training/Radio.dart';
+import 'Sowar.dart';
+
 
 void main() {
   runApp(MyApp());
@@ -22,7 +24,7 @@ class _MyAppState extends State<MyApp> {
     radio(),
     sebha(),
     ahades(),
-    quraan(),
+    Quran(),
   ];
 
   @override
