@@ -189,6 +189,141 @@ class Quran extends StatelessWidget {
                           Navigator.push(context, MaterialPageRoute(builder: (context)=>Suracontent(suraname : 'النمل' , path :path+'27.txt')));
                         }
                     ),
+                    TextButton(
+                        child: Text('القصص',style: suraStyle,),
+                        onPressed: (){
+                          Navigator.push(context, MaterialPageRoute(builder: (context)=>Suracontent(suraname : 'القصص' , path :path+'28.txt')));
+                        }
+                    ),
+                    TextButton(
+                        child: Text('العنكبوت',style: suraStyle,),
+                        onPressed: (){
+                          Navigator.push(context, MaterialPageRoute(builder: (context)=>Suracontent(suraname : 'العنكبوت' , path :path+'29.txt')));
+                        }
+                    ),
+                    TextButton(
+                        child: Text('الروم',style: suraStyle,),
+                        onPressed: (){
+                          Navigator.push(context, MaterialPageRoute(builder: (context)=>Suracontent(suraname : 'الروم' , path :path+'30.txt')));
+                        }
+                    ),
+                    TextButton(
+                        child: Text('لقمان',style: suraStyle,),
+                        onPressed: (){
+                          Navigator.push(context, MaterialPageRoute(builder: (context)=>Suracontent(suraname : 'لقمان' , path :path+'31.txt')));
+                        }
+                    ),
+                    TextButton(
+                        child: Text('السجدة',style: suraStyle,),
+                        onPressed: (){
+                          Navigator.push(context, MaterialPageRoute(builder: (context)=>Suracontent(suraname : 'السجدة' , path :path+'32.txt')));
+                        }
+                    ),
+                    TextButton(
+                        child: Text('الأحزاب	',style: suraStyle,),
+                        onPressed: (){
+                          Navigator.push(context, MaterialPageRoute(builder: (context)=>Suracontent(suraname : 'الأحزاب	' , path :path+'33.txt')));
+                        }
+                    ),
+                    TextButton(
+                        child: Text('سبأ',style: suraStyle,),
+                        onPressed: (){
+                          Navigator.push(context, MaterialPageRoute(builder: (context)=>Suracontent(suraname : 'سبأ' , path :path+'34.txt')));
+                        }
+                    ),
+                    TextButton(
+                        child: Text('فاطر	',style: suraStyle,),
+                        onPressed: (){
+                          Navigator.push(context, MaterialPageRoute(builder: (context)=>Suracontent(suraname : 'فاطر	' , path :path+'35.txt')));
+                        }
+                    ),
+                    TextButton(
+                        child: Text('يس',style: suraStyle,),
+                        onPressed: (){
+                          Navigator.push(context, MaterialPageRoute(builder: (context)=>Suracontent(suraname : 'يس' , path :path+'36.txt')));
+                        }
+                    ),
+                    TextButton(
+                        child: Text('الصافات',style: suraStyle,),
+                        onPressed: (){
+                          Navigator.push(context, MaterialPageRoute(builder: (context)=>Suracontent(suraname : 'الصافات' , path :path+'37.txt')));
+                        }
+                    ),
+                    TextButton(
+                        child: Text('ص',style: suraStyle,),
+                        onPressed: (){
+                          Navigator.push(context, MaterialPageRoute(builder: (context)=>Suracontent(suraname : 'ص' , path :path+'38.txt')));
+                        }
+                    ),
+                    TextButton(
+                        child: Text('الزمر',style: suraStyle,),
+                        onPressed: (){
+                          Navigator.push(context, MaterialPageRoute(builder: (context)=>Suracontent(suraname : 'الزمر' , path :path+'39.txt')));
+                        }
+                    ),
+                    TextButton(
+                        child: Text('غافر',style: suraStyle,),
+                        onPressed: (){
+                          Navigator.push(context, MaterialPageRoute(builder: (context)=>Suracontent(suraname : 'غافر' , path :path+'40.txt')));
+                        }
+                    ),
+                    TextButton(
+                        child: Text('فصلت',style: suraStyle,),
+                        onPressed: (){
+                          Navigator.push(context, MaterialPageRoute(builder: (context)=>Suracontent(suraname : 'فصلت' , path :path+'41.txt')));
+                        }
+                    ),
+
+                    TextButton(
+                        child: Text('فصلت',style: suraStyle,),
+                        onPressed: (){
+                          Navigator.push(context, MaterialPageRoute(builder: (context)=>Suracontent(suraname : 'فصلت' , path :path+'41.txt')));
+                        }
+                    ),
+                    TextButton(
+                        child: Text('فصلت',style: suraStyle,),
+                        onPressed: (){
+                          Navigator.push(context, MaterialPageRoute(builder: (context)=>Suracontent(suraname : 'فصلت' , path :path+'41.txt')));
+                        }
+                    ),
+                    TextButton(
+                        child: Text('فصلت',style: suraStyle,),
+                        onPressed: (){
+                          Navigator.push(context, MaterialPageRoute(builder: (context)=>Suracontent(suraname : 'فصلت' , path :path+'41.txt')));
+                        }
+                    ),
+                    TextButton(
+                        child: Text('فصلت',style: suraStyle,),
+                        onPressed: (){
+                          Navigator.push(context, MaterialPageRoute(builder: (context)=>Suracontent(suraname : 'فصلت' , path :path+'41.txt')));
+                        }
+                    ),
+                    TextButton(
+                        child: Text('فصلت',style: suraStyle,),
+                        onPressed: (){
+                          Navigator.push(context, MaterialPageRoute(builder: (context)=>Suracontent(suraname : 'فصلت' , path :path+'41.txt')));
+                        }
+                    ),
+                    TextButton(
+                        child: Text('فصلت',style: suraStyle,),
+                        onPressed: (){
+                          Navigator.push(context, MaterialPageRoute(builder: (context)=>Suracontent(suraname : 'فصلت' , path :path+'41.txt')));
+                        }
+                    ),
+                    TextButton(
+                        child: Text('فصلت',style: suraStyle,),
+                        onPressed: (){
+                          Navigator.push(context, MaterialPageRoute(builder: (context)=>Suracontent(suraname : 'فصلت' , path :path+'41.txt')));
+                        }
+                    ),
+                    TextButton(
+                        child: Text('فصلت',style: suraStyle,),
+                        onPressed: (){
+                          Navigator.push(context, MaterialPageRoute(builder: (context)=>Suracontent(suraname : 'فصلت' , path :path+'41.txt')));
+                        }
+                    ),
+
+
 
                   ],
                 ),
